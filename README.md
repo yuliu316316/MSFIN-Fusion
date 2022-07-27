@@ -4,13 +4,13 @@
 
 This package contains the source code which is associated with the following paper:
 
-Yu Liu, Lei Wang, Juan Cheng, Xun Chen, "Multi-scale Feature Interactive Network for Multi-focus Image Fusion", submitted to IEEE Transactions on Instrumentation and Measurement, 2021. (under review, second round)
+Yu Liu, Lei Wang, Juan Cheng, Xun Chen, "Multi-scale Feature Interactive Network for Multi-focus Image Fusion", submitted to IEEE Transactions on Instrumentation and Measurement, vol. 70, p. 5019316, 2021.
 
 Edited by Yu Liu.   
 
 Usage of this code is free for research purposes only. 
 
-The MSFIN model is learned by pytorch. The training code will be released if the paper could be accepted for publication. 
+Please refer to the above publication if you use this code. Thank you.
 
 Thank you.
 
@@ -37,4 +37,4 @@ Contact:
     Homepage: https://sites.google.com/site/yuliu316316; https://github.com/yuliu316316
 
 
-Last update: 22-Sep-2021
+Last update: 27-July-2022
