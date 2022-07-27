@@ -4,9 +4,9 @@
 
 This package contains the source code which is associated with the following paper:
 
-Yu Liu, Lei Wang, Juan Cheng, Xun Chen, "Multi-scale Feature Interactive Network for Multi-focus Image Fusion", submitted to IEEE Transactions on Instrumentation and Measurement, vol. 70, p. 5019316, 2021.
+Yu Liu, Lei Wang, Juan Cheng, Xun Chen, "Multi-scale Feature Interactive Network for Multi-focus Image Fusion", IEEE Transactions on Instrumentation and Measurement, vol. 70, p. 5019316, 2021.
 
-Edited by Yu Liu.   
+Edited by Lei Wang and Yu Liu.   
 
 Usage of this code is free for research purposes only. 
 
